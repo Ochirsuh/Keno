@@ -1,0 +1,19 @@
+# Keno-2.0 ---- 2025
+Keno bot written for Stake original game.
+
+<br />
+<br />
+How to get clearance cookie and User-agent:<br />
+
+<br /><br />
+copy-paste the cf_clearance cookie into Cookie input<br />
+and paste User-Agent text into Agent input<br />
+<br />
+<br />
+If you have missing cf_clearance cookie, then i suggest using another Stake mirror site.
+List of Stake mirrors:
+
+<b>Discord</b>: fisk_992 <br />
+<b>Stake</b>: poky1084 <br />
+<b>Telegram:</b>: @poky_1084
+
